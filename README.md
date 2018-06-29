@@ -20,6 +20,6 @@ UI設計稿 : https://www.behance.net/gallery/67178627/F2E-Week3-Admin-Order <br
 
 ## Week4 - Product Gallery
 
-DEMO : <br>
+DEMO : https://toxchen.github.io/Product-Gallery/ <br>
 UI設計稿 : <br>
 主要練習技術 :  <br>
