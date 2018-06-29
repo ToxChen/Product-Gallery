@@ -1,0 +1,1 @@
+{"version":3,"sources":["_helpers.js"],"names":["helpers","getQuery"],"mappings":"YAAA,IAAAA,UACAC,SAAA,WAEA,MAAA","file":"all.js","sourcesContent":["const helpers = {\n  getQuery: ()=> {\n    console.log('getQuery');\n    return 'getQuery';\n  }\n}\n"]}
